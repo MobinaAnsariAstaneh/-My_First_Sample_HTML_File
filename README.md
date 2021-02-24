@@ -1,4 +1,4 @@
-# Decription 
+# Description 
 _This is my first `HTML5` sample during my internship_.
 
 
